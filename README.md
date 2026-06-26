@@ -1,7 +1,7 @@
 <h1 align="center">Sarmad Abbas</h1>
 
 <p align="center">
-  <b>Cyber Security student @ UMT</b> · Penetration Testing · Malware Analysis · Post-Quantum Cryptography
+  <b>Cyber Security student @ UMT</b> · Penetration Testing · Malware Analysis · Post-Quantum Cryptography · Cyber Threat Intelligence
 </p>
 
 <p align="center">
